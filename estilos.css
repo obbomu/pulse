@@ -236,10 +236,10 @@ nav ul li a
 	float: right;
 }
 @media screen and (min-width: 800px){
-	#contenido {
+	#contenido{
 		overflow: hidden;
 	}
-	#contenido .item {
+	#contenido .item{
 		width: 49%;
 		display: inline-block;
 		float: left;
